@@ -23,7 +23,7 @@ PYGMENTS_STYLE = 'github'  # Light mode
 PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
-STATIC_PATH/images/S = ['images']
+STATIC_PATH = ['images']
 SITELOGO = '/images/jerolin.jpeg'
 
 # Feed generation is usually not desired when developing
