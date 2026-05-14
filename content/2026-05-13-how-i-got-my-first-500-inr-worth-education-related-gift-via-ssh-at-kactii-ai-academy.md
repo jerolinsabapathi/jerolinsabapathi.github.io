@@ -4,7 +4,7 @@ Category: Student Life
 Tags: Kactii-AI-Academy, SSH, Student-Side-Hustle, Ubuntu, Linux, Credits, Community-Learning, EdTech
 Slug: how-i-got-my-first-500-inr-worth-education-related-gift-via-ssh-at-kactii-ai-academy
 
-# That One Browser Session That Got Me ₹500
+
 
 ## A Little Backstory
 
